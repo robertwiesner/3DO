@@ -1,5 +1,5 @@
 # 3DO
-3 Dimensional Objects mfor various used, I used the nmae as a references to "The 3DO Company" the maker of Might & Magic series  (https://en.wikipedia.org/wiki/The_3DO_Company)
+3 Dimensional Objects for various usages, I used the name as a references to "The 3DO Company" the maker of Might & Magic series (https://en.wikipedia.org/wiki/The_3DO_Company). 
 
 These files are published under the Creative Commons License https://creativecommons.org/licenses/by-sa/4.0/
 
