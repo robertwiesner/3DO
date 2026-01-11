@@ -15,4 +15,4 @@ The licensor cannot revoke these freedoms as long as you follow the license term
 Files:
 * bookbinding.FCStd: creating the hole punch guide for book binding
 * bookcorner.FCStd: cardboard cutting guide adjustable for the cardboard thickness
-* 
+* StrohsternForm.FCStd: 3D model of a Strohstern lege form generator 
